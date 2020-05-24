@@ -41,7 +41,7 @@ O banco de dados a ser utilizado deve ser o Postgres versão 9.6 ou superior;
 
 ### Como se candidatar para a vaga e enviar o projeto
 
-Você deve realizar um fork deste repostitório e desenvolver o necessário, 
+Você deve realizar um fork deste repositório e desenvolver o necessário, 
 cada aplicação deve estar contida em uma pasta (você nos enviará o workspace), quando desejar finalizar, basta criar um Pull Request.
 
 Se ainda restarem dúvidas, você pode enviar um e-mail para [vagas@softmakers.com.br](mailto:vagas@softmakers.com.br)
