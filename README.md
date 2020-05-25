@@ -6,7 +6,7 @@ Full Stack Developer - Pleno
 
 ## Descrição da vaga e processo seletivo
 
-A SoftMakers está contratando para preenchimento imediato um desenvolvedor Full Stack Pleno que domine Laravel, Node JS e React, com remuneração de R$2000,00 + R$500,00 de vale alimentação, o contrato de trabalho será CLT, sendo possível trabalhar em um dos nossos escritórios que ficam localizados nas cidades de Vitória de Santo Antão e Caruaru ou Remote Working, a depender do processo seletivo.
+A SoftMakers está contratando para preenchimento imediato um desenvolvedor Full Stack Pleno que domine Laravel, Node JS e React, com remuneração de R$2000,00 + R$500,00 de vale alimentação, o contrato de trabalho será CLT, sendo possível trabalhar em nosso escritório que fica localizado na cidade de Caruaru ou Remote Working, a depender do processo seletivo.
 
 ### O processo será dividido em 3 etapas simples, que são:
 
